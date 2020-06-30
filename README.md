@@ -7,10 +7,12 @@ This project aims to create a classifier that predicts the status of loans made 
 2. Delayed past the initial 15 day grace period
 3. Completely charged off (LendingClub does not expect payment). Loans are typically charged off after 120 days of failed payments.
 
-**Loan Quick Facts:**
+**Loan Details:**
 * Loan principal amounts are between 1,000 and 40,000 USD
 * The term of the loan is either 3 or 5 years
 
 Data
 ---
 Data is pulled from https://www.lendingclub.com/statistics/additional-statistics? (login required).
+
+Note: Employer Title replaces Employer Name for all loans listed after 9/23/2013
