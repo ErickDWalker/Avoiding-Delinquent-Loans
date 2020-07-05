@@ -11,7 +11,7 @@ Predictions made by the model will be tested by comparing the returns on loans d
 Data
 ---
 **Source:** https://www.lendingclub.com/statistics/additional-statistics? (login required).
-**Time Frame:** Loans issued between 1/2010 and 12/2019
+**Time Frame:** Loans issued between 1/2010 and 12/2016
 
 **Loan Details:**
 * Loan principal amounts are between 1,000 and 40,000 USD
