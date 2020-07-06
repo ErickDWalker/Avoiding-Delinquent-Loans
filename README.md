@@ -2,7 +2,7 @@
 
 Overview
 ---
-LendingClub is a facilitator of peer-to-peer loans, connecting borrowers with investors. Borrowers first submit loan applications to LendingClub, which evaluates each loan and determines if it is suitable to be listed on their platform. If a loan is found to be suitable, LendingClub's model assigns it an interest rate based on the credit risk of the borrower, and investors can then decide whether to fund the loan by committing capital. The company makes money by charging fees to both sides (an origination fee to borrowers, and a service fee to investors).
+LendingClub is a facilitator of peer-to-peer loans, connecting borrowers with investors. Borrowers begin by first submitting loan applications, which are then evaluated to determine if they are suitable to be listed on LendingClub's platform. If a loan is found to be suitable, LendingClub's model assigns it an interest rate based on the credit risk of the borrower, and investors can then decide whether to fund the loan by committing capital. The company makes money by charging fees to both sides (an origination fee to borrowers, and a service fee to investors).
 
 This project aims to create a model that predicts whether loans made through LendingClub will be fully paid off or not. The motivation for such a model is apparent: investors aim to maximize returns by minimizing losses of principal and interest.
 
