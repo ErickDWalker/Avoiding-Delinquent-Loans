@@ -25,5 +25,3 @@ To exclude loans whose ultimate payment status has not yet been determined (i.e.
 
 Loans are determined to be in default when payments have not been made for an extended period of time. Generally, if the borrower continues to fail to make payments for 120 days, further payments are not expected and the loan status shifts to charged off.
 
-Results
----
